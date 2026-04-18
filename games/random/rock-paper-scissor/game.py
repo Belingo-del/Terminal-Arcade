@@ -1,5 +1,6 @@
 import random
 
+AUTHOR = "dineshg0pal"
 CHOICES = ["rock", "paper", "scissors"]
 
 
@@ -49,7 +50,7 @@ def play_round():
 
 
 def run():
-    print("🎮 Rock Paper Scissors")
+    print(f"🎮 Rock Paper Scissors by {AUTHOR}")
 
     user_score = 0
     computer_score = 0

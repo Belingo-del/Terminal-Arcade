@@ -2,7 +2,7 @@ AUTHOR = "bhavyainturi9"
 import random
 
 def run():
-    print("Welcome to Coin Flip!")
+    print(f"Welcome to Coin Flip by {AUTHOR}")
 
     user_choice = input("Guess heads or tails: ").lower()
 
