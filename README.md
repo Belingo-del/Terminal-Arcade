@@ -1,6 +1,6 @@
 #  Terminal Arcade
 
-A community-driven collection of mini games in Python.
+A community-driven collection of mini games in Python. 
 
 This project lets anyone contribute simple games that can be played directly in the terminal.
 
