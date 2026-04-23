@@ -5,7 +5,7 @@ AUTHOR = "SouLCodes-main"
 
 def generate_password(length: int) -> str:
     """Generate a random password of the given length."""
-    characters = string.ascii_letters + string.digits
+    characters = string.ascii + string.digits
     return ''.join(random.choice(characters) for _ in range(length))
 
 def run():
